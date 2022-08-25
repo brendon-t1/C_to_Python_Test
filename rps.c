@@ -46,9 +46,7 @@ void rps(int choice){
             printf("Draw");
         }
     }
-
 }
-
 
 int main(){
     // must pass in 1 - 3
